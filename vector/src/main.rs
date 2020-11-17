@@ -8,6 +8,7 @@ fn main() {
     let median: i32;
 
     // mean
+    //
     for x in numbers.iter() {
         sum = sum + x;
     }
